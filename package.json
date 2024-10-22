@@ -5,8 +5,7 @@
     "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
-    "type": "module"
+    "preview": "vite preview"
   },
   "dependencies": {
     "firebase": "^11.0.1",
