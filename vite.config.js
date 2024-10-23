@@ -9,7 +9,11 @@ export default defineConfig({
 	],
 	build: {
 		rollupOptions: {
-		  external: ['firebase/app'],
+		  external: ['firebase/app']
+		}
+	},
+	build: {
+		rollupOptions: {
 		  external: ['firebase/firestore/lite']
 		}
 	}
