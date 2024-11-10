@@ -8,7 +8,6 @@ import {
     query,
     where
 } from "firebase/firestore/lite"
-const myKey = config
 
 const firebaseConfig = {
     apiKey: "AIzaSyAxcsuUCggPJv52Fg2EoueAAoR8mmE9nFw",
