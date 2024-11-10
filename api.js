@@ -11,12 +11,12 @@ import {
 const myKey = config
 
 const firebaseConfig = {
-    apiKey: config.apiKey,
-    authDomain: config.authDomain,
-    projectId: config.projectId,
-    storageBucket: config.storageBucket,
-    messagingSenderId: config.messagingSenderId,
-    appId: config.appId
+    apiKey: "AIzaSyAxcsuUCggPJv52Fg2EoueAAoR8mmE9nFw",
+    authDomain: "vanlife-88fe3.firebaseapp.com",
+    projectId: "vanlife-88fe3",
+    storageBucket: "vanlife-88fe3.appspot.com",
+    messagingSenderId: "497944607409",
+    appId: "1:497944607409:web:76d08640f0c35c6c718090"
   };
 
 const app = initializeApp(firebaseConfig)
